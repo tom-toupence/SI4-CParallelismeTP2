@@ -1,0 +1,8 @@
+Au maximum, le nb de core utilisés sera : 4
+Résultat avec nbOccurs : 780850
+Temps avec nbOccurs: 0.28 sec
+Processors	Speedup
+1	0.96
+2	1.57
+3	1.41
+4	1.52
